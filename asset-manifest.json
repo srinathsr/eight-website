@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/eight-website/static/css/main.6180929d.chunk.css",
+    "main.js": "/eight-website/static/js/main.936306b5.chunk.js",
+    "main.js.map": "/eight-website/static/js/main.936306b5.chunk.js.map",
+    "runtime-main.js": "/eight-website/static/js/runtime-main.e6930c74.js",
+    "runtime-main.js.map": "/eight-website/static/js/runtime-main.e6930c74.js.map",
+    "static/js/2.6e323a49.chunk.js": "/eight-website/static/js/2.6e323a49.chunk.js",
+    "static/js/2.6e323a49.chunk.js.map": "/eight-website/static/js/2.6e323a49.chunk.js.map",
+    "index.html": "/eight-website/index.html",
+    "static/css/main.6180929d.chunk.css.map": "/eight-website/static/css/main.6180929d.chunk.css.map",
+    "static/js/2.6e323a49.chunk.js.LICENSE.txt": "/eight-website/static/js/2.6e323a49.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6930c74.js",
+    "static/js/2.6e323a49.chunk.js",
+    "static/css/main.6180929d.chunk.css",
+    "static/js/main.936306b5.chunk.js"
+  ]
+}
